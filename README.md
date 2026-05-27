@@ -1,28 +1,283 @@
-# 💫 About Me:
-👋 Hi, I’m Druthendra — a passionate UI/UX designer and Software Engineer with a strong focus on building user-centric and scalable solutions.<br>💻 Skilled as a Full-Stack Developer, I enjoy crafting seamless digital experiences from design to deployment.<br>🚀 Exploring modern web technologies, cloud integrations, and AI-driven applications.<br>📚 Constantly learning and contributing to open-source projects to grow and collaborate with the developer community.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=DRUTHENDRA%20KOMMI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=62&descSize=18"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kommidruthendra/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i__am__hack_er) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kommidruthendra2005@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Druthendra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MAD_DRAX) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ethical0101&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ethical0101&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethical0101&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Digital+Experiences;Full-Stack+%7C+Mobile+%7C+LLM+Integrations;6+Internships+%7C+58+Public+Repos;Product-Driven+Engineer+from+VIT+Vellore)](https://git.io/typing-svg)
 
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ethical0101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Open To](https://img.shields.io/badge/OPEN%20TO-Software%20Engineering-00F7FF?style=for-the-badge&labelColor=0D1117)](https://linkedin.com/in/kommidruthendra/)
+[![Focus](https://img.shields.io/badge/FOCUS-AI%20+%20Mobile%20Systems-FF4B91?style=for-the-badge&labelColor=0D1117)](https://portfolio-phi-nine-70.vercel.app/)
+[![Status](https://img.shields.io/badge/STATUS-Building%20%26%20Shipping-8A2BE2?style=for-the-badge&labelColor=0D1117)](#)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ethical0101&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-phi-nine-70.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kommidruthendra/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kommidruthendra2005@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Druthendra)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ethical0101)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ethical0101&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/ethical0101)
+[![GitHub followers](https://img.shields.io/github/followers/ethical0101?label=FOLLOWERS&style=for-the-badge&color=00F7FF&labelColor=0D1117)](https://github.com/ethical0101?tab=followers)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ethical0101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ About Me
+
+<div align="center">
+
+![Name](https://img.shields.io/badge/Name-Druthendra%20Kommi-00F7FF?style=flat-square&labelColor=0D1117)
+![Role](https://img.shields.io/badge/Role-Full--Stack%20%7C%20Mobile%20%7C%20AI%2FML-FF4B91?style=flat-square&labelColor=0D1117)
+![Education](https://img.shields.io/badge/Education-VIT%20Vellore%2C%20Integrated%20M.Tech-8A2BE2?style=flat-square&labelColor=0D1117)
+
+<br/>
+
+![Status](https://img.shields.io/badge/Status-3x%20Active%20Intern%20(AI%2FML%20%2B%20Mobile%20%2B%20Full--Stack)-brightgreen?style=flat-square&labelColor=0D1117)
+![Open To](https://img.shields.io/badge/Open%20To-Internships%20%7C%20Collaborations%20%7C%20Open%20Source-FFA116?style=flat-square&labelColor=0D1117)
+
+<br/><br/>
+
+Building AI-powered applications, modern mobile experiences, and scalable full-stack systems.<br/>
+Passionate about creating products that combine intelligent workflows, clean engineering, and real-world impact.
+
+<br/>
+
+| 🤖 AI Integrations | 📱 Mobile-First Engineering | 🔧 System Design | ☁️ Cloud & DevOps | 🔁 LLM Workflows |
+|:---:|:---:|:---:|:---:|:---:|
+| Gemini · ElevenLabs · Tavus | React Native · Expo · Flutter | REST · WebSockets · Microservices | AWS · GCP · Docker | Prompt Engineering · RAG |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### ✈️ AI Trip Planner
+AI-powered mobile itinerary generator tested by 200+ users with route optimization.
+
+**Stack:** `React Native` `Expo` `Gemini AI` `Google Maps API`
+
+- AI-generated personalized itineraries
+- Google Maps route optimization (↓20% planning time)
+- Cross-platform navigation & state management
+- Full API error recovery
+
+[![Repo](https://img.shields.io/badge/REPO-FFA116?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ethical0101)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🎭 StoryForge Pro
+AI storytelling platform — Gemini, ElevenLabs & Tavus with real-time video generation.
+
+**Stack:** `React` `TypeScript` `Supabase` `Gemini AI` `ElevenLabs`
+
+- 3 external AI APIs with retry logic & error recovery
+- Supabase RLS + auth-gated routes
+- Real-time progress via Supabase subscriptions
+- Admin panel with user management & analytics
+
+[![Repo](https://img.shields.io/badge/REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethical0101/StoryForge)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 📝 Document Planner
+Real-time collaborative workspace — 10 concurrent users, 60% fewer version conflicts.
+
+**Stack:** `Next.js` `TypeScript` `Firebase` `Liveblocks` `TailwindCSS`
+
+- WebSocket infrastructure via Liveblocks
+- Conflict-resolution + optimistic concurrency
+- Multi-user presence indicators
+- Comment & notification systems
+
+[![Repo](https://img.shields.io/badge/REPO-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethical0101/Document-Planner)
+[![Live](https://img.shields.io/badge/LIVE-00C2CB?style=for-the-badge&logo=vercel&logoColor=white)](https://document-planner.vercel.app)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 📄 Resumind — AI Resume Analyzer
+ATS scoring engine benchmarked against 100+ job descriptions with 85% accuracy.
+
+**Stack:** `React` `TypeScript` `PDF.js` `Puter.js`
+
+- Multi-fallback PDF worker resolution
+- Structured KV auth-gated data model
+- Strict prompt-to-JSON schema (ATS score + tips)
+- Tested across 100+ real JDs
+
+[![Repo](https://img.shields.io/badge/REPO-FF4B91?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethical0101/Ai-Resume-Analyzer)
+[![Live](https://img.shields.io/badge/LIVE-00C2CB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ai-resume-analyzer-136-p6pbk.puter.site)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🎵 Music Player
+Full-stack streaming app with playlist management and lyrics fetching.
+
+**Stack:** `Django` `Python` `SQLite`
+
+[![Repo](https://img.shields.io/badge/REPO-1DB954?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethical0101/Music-Player)
+[![Live](https://img.shields.io/badge/LIVE-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://music-player-9w4b.onrender.com)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🎬 MovieLand
+Movie discovery app with OMDB API, search debouncing & responsive layout.
+
+**Stack:** `React` `JavaScript` `OMDB API`
+
+[![Repo](https://img.shields.io/badge/REPO-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethical0101/MovieLand)
+[![Live](https://img.shields.io/badge/LIVE-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://movieland-ch9x.onrender.com)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Experience
+
+<div align="center">
+
+| Role | Company | Duration |
+|:-----|:--------|:--------:|
+| 🧠 AI/ML Intern | Labmentix | ![](https://img.shields.io/badge/May%202026-Present-brightgreen?style=flat-square) |
+| 📱 App Development Intern | Aarvasa Innovations Pvt. Ltd. | ![](https://img.shields.io/badge/Apr%202026-Present-blue?style=flat-square) |
+| 📱 Software Dev Intern – Mobile | Varini Info Systems Pvt. Ltd. | ![](https://img.shields.io/badge/May%202026-Present-blue?style=flat-square) |
+| 🤖 Automation & Web Intern | VTEX AI (Curiouspods) | ![](https://img.shields.io/badge/Jul–Aug%202025-orange?style=flat-square) |
+| ⚙️ Software Development Intern | ScientiFlow | ![](https://img.shields.io/badge/May–Sep%202025-orange?style=flat-square) |
+| 🎨 Frontend Developer Intern | Seculinx | ![](https://img.shields.io/badge/Dec%202024–May%202025-purple?style=flat-square) |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,r&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**Frontend & Mobile**
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vue,flutter&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**Backend & Databases**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,postgres,mongodb,firebase,supabase&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**Cloud · DevOps · Tools**
+
+[![Skills](https://skillicons.dev/icons?i=aws,gcp,docker,git,github,figma,vscode,postman&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**AI / ML**
+
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ethical0101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF4B91&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true"/>
+<div align="center">
+
+<img width="49%" src="https://streak-stats.demolab.com?user=ethical0101&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF4B91&currStreakLabel=00F7FF"/>
+<br><br>
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ethical0101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+
+</div>
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🟠 | **AWS Cloud Practitioner Essentials** — Amazon Web Services |
+| 🔵 | **Introduction to Modern AI** — Cisco Networking Academy |
+| 🟢 | **Data Science** — Infosys Springboard |
+| ⚫ | **Building with GitHub Copilot Agent Mode** — Microsoft |
+| 🌍 | **Microsoft AI Skills Fest** — Guinness World Record Attempt |
+| 🏆 | **Massathon 24** — 24-hour Hackathon · Shipped working prototype under pressure |
+
+</div>
+
+---
+
+## 🧩 Currently Building
+
+<div align="center">
+
+```txt
+→  AI/ML pipelines & applied machine learning systems
+→  React Native financial mobile application (MyDCF)
+→  Scalable backend workflows & data services
+→  LLM workflow integrations & intelligent automation
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/>
+
+### ⚡ "Ship fast. Break limits. Repeat."
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
