@@ -165,7 +165,6 @@ Movie discovery app with OMDB API, search debouncing & responsive layout.
 | Role | Company | Duration |
 |:-----|:--------|:--------:|
 | 🧠 AI/ML Intern | Labmentix | ![](https://img.shields.io/badge/May%202026-Present-brightgreen?style=flat-square) |
-| 📱 App Development Intern | Aarvasa Innovations Pvt. Ltd. | ![](https://img.shields.io/badge/Apr%202026-Present-blue?style=flat-square) |
 | 📱 Software Dev Intern – Mobile | Varini Info Systems Pvt. Ltd. | ![](https://img.shields.io/badge/May%202026-Present-blue?style=flat-square) |
 | 🤖 Automation & Web Intern | VTEX AI (Curiouspods) | ![](https://img.shields.io/badge/Jul–Aug%202025-orange?style=flat-square) |
 | ⚙️ Software Development Intern | ScientiFlow | ![](https://img.shields.io/badge/May–Sep%202025-orange?style=flat-square) |
