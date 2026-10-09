@@ -65,7 +65,7 @@ From idea to a production release: app architecture, UI, testing, signing and th
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
-<a href="[PLAY_STORE_LINK](https://play.google.com/store/apps/details?id=com.mydcf&pli=1)"><img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-000000?style=for-the-badge&logo=googleplay&logoColor=white" height="34"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.mydcf&pli=1"><img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-000000?style=for-the-badge&logo=googleplay&logoColor=white" height="34"/></a>
 
 </td>
 </tr>
